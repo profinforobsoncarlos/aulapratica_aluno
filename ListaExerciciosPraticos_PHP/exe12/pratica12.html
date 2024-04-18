@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="estilo.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex 12</title>
+</head>
+<body>
+<!--
+Desenvolva um programa que leia o nome de um funcionário, seu salário,
+quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de
+acordo com a tabela a seguir:
+- Até 3 anos de empresa: aumento de 3%
+- entre 3 e 10 anos: aumento de 12.5%
+- 10 anos ou mais: aumento de 20%
+-->
+<div>
+
+
+
+
+</div>
+</body>
+</html>
